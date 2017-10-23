@@ -15,14 +15,14 @@
 	<script src="js/jquery-2.1.1.js"></script>
 	<script type="text/javascript" src="js/jquery-ui.js"></script>
   	
-	<title>ಶ್ರೀ ಶಂಕರ ಕೃಪಾ</title>
+	<title>ಸಪ್ತಗಿರಿ</title>
 </head>
 <body>
 	<header class="cd-header">
 		<div id="cd-logo">
 			<a href="../index.html#home">
 				<img src="img/logo.gif" alt="Logo">
-				<span>ಶ್ರೀ ಶಂಕರ ಕೃಪಾ</span>
+				<span>ಸಪ್ತಗಿರಿ</span>
 				<!--<img src="img/logo2.gif" alt="Logo"> -->
 			</a>
 		</div>
