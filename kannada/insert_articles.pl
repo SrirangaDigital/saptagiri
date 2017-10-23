@@ -73,11 +73,11 @@ while($line)
 		if($page eq $prev_pages)
 		{
 			$count++;
-			$id = "shankara_krupa_" . $volume . "_" . $part . "_" . $page . "_" . $count; 
+			$id = "saptagiri_" . $language . "_" . $volume . "_" . $part . "_" . $page . "_" . $count; 
 		}
 		else
 		{
-			$id = "shankara_krupa_" . $volume . "_" . $part . "_" . $page . "_0";
+			$id = "saptagiri_" . $language . "_" . $volume . "_" . $part . "_" . $page . "_0";
 			$count = 0;
 		}
 		$prev_pages = $page;
