@@ -46,12 +46,10 @@ See https://github.com/adobe-type-tools/cmap-resources
 <?php
 	$volume = $_GET['vnum'];
 	$part = $_GET['pnum'];
-	$language = $_GET['lang'];
 ?>
 	<script type="text/javascript">
 		var volume = '<?php echo $volume; ?>';
 		var part = '<?php echo $part; ?>';
-		var language = '<?php echo $language; ?>';
 	</script>
   <body tabindex="1" class="loadingInProgress">
     <div id="outerContainer">
