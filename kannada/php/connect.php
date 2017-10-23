@@ -1,7 +1,7 @@
 <?php
 $user='root';
 $password='mysql';
-$database='shankara_krupa';
+$database='saptagiri_kannada';
 $type_code = '01';
 
 $db = @new mysqli('localhost', "$user", "$password", "$database");

@@ -72,7 +72,7 @@ if($num_rows > 0)
 		echo '	</div>';
 		//~ echo '	<span class="aTitle"><a target="_blank" href="bookReader.php?volume=' . $row['volume'] . '&amp;part=' . $row['part'] . '&amp;page=' . $row['page'] . '">' . $row['title'] . '</a></span>';
 		//~ DJVU link
-		echo '	<span class="aTitle"><a target="_blank" href="../pdfjs/web/viewer.php?vnum=' . $row['volume'] . '&pnum=' . $row['part'] . '&lang=kannada#page=' . $row['page'] . '">' . $row['title'] . '</a></span>';
+		echo '	<span class="aTitle"><a target="_blank" href="../Volumes/pdf/' . $row['volume'] . '/' . $row['part'] . '/index.pdf#page=' . intval($row['page']) . '">' . $row['title'] . '</a></span>';
 		echo '<br/><span class="downloadspan"><a target="_blank" href="downloadPdf.php?titleid='.$titleid.'">ಡೌನ್ಲೋಡ್ ಪಿಡಿಎಫ್</a></span>';
 		echo '</div>';
 	}
