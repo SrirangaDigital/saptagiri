@@ -1567,6 +1567,10 @@ var PDFViewerApplication = {
     return promise;
   },
   open: function pdfViewOpen(file, args) {
+	
+	  
+	file = '../../Volumes/pdf/' + volume + '/' + part + '/index.pdf';
+	
     if (arguments.length > 2 || typeof args === 'number') {
       return Promise.reject(new Error('Call of open() with obsolete signature.'));
     }
