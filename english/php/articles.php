@@ -12,9 +12,9 @@
 					<span class="letter"><a href="articles.php?letter=f">F</a></span>
 					<span class="letter"><a href="articles.php?letter=g">G</a></span>
 					<span class="letter"><a href="articles.php?letter=h">H</a></span>
-					<span class="letter"><a href="articles.php?letter=i">i</a></span>
-					<span class="letter"><a href="articles.php?letter=j">j</a></span>
-					<span class="letter"><a href="articles.php?letter=k">k</a></span>
+					<span class="letter"><a href="articles.php?letter=i">I</a></span>
+					<span class="letter"><a href="articles.php?letter=j">J</a></span>
+					<span class="letter"><a href="articles.php?letter=k">K</a></span>
 					<span class="letter"><a href="articles.php?letter=l">L</a></span>
 					<span class="letter"><a href="articles.php?letter=l">M</a></span>
 					<span class="letter"><a href="articles.php?letter=n">N</a></span>
