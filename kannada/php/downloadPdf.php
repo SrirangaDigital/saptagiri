@@ -30,9 +30,9 @@
 		{
 			$pdfList .= '../Volumes/pdf/' . $volume . '/' . $part . '/' . $row["cur_page"] . '.pdf ';
 		}
-		//~ $temp = '../ReadWrite/Shankara_Krupa_' . time() . '_' . rand(1,9999) . '.pdf'; 
+		//~ $temp = '../ReadWrite/Saptagiri_' . time() . '_' . rand(1,9999) . '.pdf'; 
 		
-		$downloadURL = '../ReadWrite/Shankara_Krupa_' . $volume . '_' . $part . '_' . $page . '.pdf';
+		$downloadURL = '../ReadWrite/Saptagiri_' . $volume . '_' . $part . '_' . $page . '.pdf';
 		system ('pdftk ' . $pdfList . ' cat output ' . $downloadURL);
 		//~ system ('pdfopt ' . $temp . ' ' . $downloadURL);
 	}
