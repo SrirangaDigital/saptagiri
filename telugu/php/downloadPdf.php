@@ -7,9 +7,9 @@
 	{
 		include("connect.php");
 		$vars = explode('_', $titleid);
-		$volume = $vars[1];
-		$part = $vars[2];
-		$page = $vars[3];
+		$volume = $vars[2];
+		$part = $vars[3];
+		$page = $vars[4];
 		$str = '';
 		$pageRangeList = preg_split('/;/',$page);
 		$page = '';
@@ -24,7 +24,6 @@
 		$page = preg_replace("/_$/", "" ,$page);
 		$pdfList = '';
 		$query1 = "select cur_page from ocr where volume = '$volume' and part = '$part' and (cur_page between $str)";
-		echo $query1;
 		
 		$result1 = $db->query($query1) or die("query problem"); 
 		
@@ -32,9 +31,9 @@
 		{
 			$pdfList .= '../Volumes/pdf/' . $volume . '/' . $part . '/' . $row["cur_page"] . '.pdf ';
 		}
-		//~ $temp = '../ReadWrite/Shankara_Krupa_' . time() . '_' . rand(1,9999) . '.pdf'; 
+		//~ $temp = '../ReadWrite/Saptagiri_' . time() . '_' . rand(1,9999) . '.pdf'; 
 		
-		$downloadURL = '../ReadWrite/Shankara_Krupa_' . $volume . '_' . $part . '_' . $page . '.pdf';
+		$downloadURL = '../ReadWrite/Saptagiri_' . $volume . '_' . $part . '_' . $page . '.pdf';
 		system ('pdftk ' . $pdfList . ' cat output ' . $downloadURL);
 		//~ system ('pdfopt ' . $temp . ' ' . $downloadURL);
 	}
