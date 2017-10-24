@@ -4,32 +4,37 @@
 			<div class="cd-container">
 				<h1 class="clr1">Authors</h1>
 				<div class="alphabet gapBelowSmall gapAboveSmall">
-					<span class="letter"><a href="authors.php?letter=a">A</a></span>
-					<span class="letter"><a href="authors.php?letter=b">B</a></span>
-					<span class="letter"><a href="authors.php?letter=c">C</a></span>
-					<span class="letter"><a href="authors.php?letter=d">D</a></span>
-					<span class="letter"><a href="authors.php?letter=e">E</a></span>
-					<span class="letter"><a href="authors.php?letter=f">F</a></span>
-					<span class="letter"><a href="authors.php?letter=g">G</a></span>
-					<span class="letter"><a href="authors.php?letter=h">H</a></span>
-					<span class="letter"><a href="authors.php?letter=i">I</a></span>
-					<span class="letter"><a href="authors.php?letter=j">J</a></span>
-					<span class="letter"><a href="authors.php?letter=k">K</a></span>
-					<span class="letter"><a href="authors.php?letter=l">L</a></span>
-					<span class="letter"><a href="authors.php?letter=m">M</a></span>
-					<span class="letter"><a href="authors.php?letter=n">N</a></span>
-					<span class="letter"><a href="authors.php?letter=o">O</a></span>
-					<span class="letter"><a href="authors.php?letter=p">P</a></span>
-					<span class="letter"><a href="authors.php?letter=q">Q</a></span>
-					<span class="letter"><a href="authors.php?letter=r">R</a></span>
-					<span class="letter"><a href="authors.php?letter=s">S</a></span>
-					<span class="letter"><a href="authors.php?letter=t">T</a></span>
-					<span class="letter"><a href="authors.php?letter=u">U</a></span>
-					<span class="letter"><a href="authors.php?letter=v">V</a></span>
-					<span class="letter"><a href="authors.php?letter=w">W</a></span>
-					<span class="letter"><a href="authors.php?letter=x">X</a></span>
-					<span class="letter"><a href="authors.php?letter=y">Y</a></span>
-					<span class="letter"><a href="authors.php?letter=z">Z</a></span>
+					<span class="letter"><a href="authors.php?letter=अ">अ</a></span>
+					<span class="letter"><a href="authors.php?letter=आ">आ</a></span>
+					<span class="letter"><a href="authors.php?letter=इ">इ</a></span>
+					<span class="letter"><a href="authors.php?letter=ई">ई</a></span>
+					<span class="letter"><a href="authors.php?letter=उ">उ</a></span>
+					<span class="letter"><a href="authors.php?letter=ओ">ओ</a></span>
+					<span class="letter"><a href="authors.php?letter=क">क</a></span>
+					<span class="letter"><a href="authors.php?letter=ख">ख</a></span>
+					<span class="letter"><a href="authors.php?letter=ग">ग</a></span>
+					<span class="letter"><a href="authors.php?letter=घ">घ</a></span>
+					<span class="letter"><a href="authors.php?letter=च">च</a></span>
+					<span class="letter"><a href="authors.php?letter=ज">ज</a></span>
+					<span class="letter"><a href="authors.php?letter=ट">ट</a></span>
+					<span class="letter"><a href="authors.php?letter=ड">ड</a></span>
+					<span class="letter"><a href="authors.php?letter=त">त</a></span>
+					<span class="letter"><a href="authors.php?letter=द">द</a></span>
+					<span class="letter"><a href="authors.php?letter=ध">ध</a></span>
+					<span class="letter"><a href="authors.php?letter=न">न</a></span>
+					<span class="letter"><a href="authors.php?letter=प">प</a></span>
+					<span class="letter"><a href="authors.php?letter=फ">फ</a></span>
+					<span class="letter"><a href="authors.php?letter=ब">ब</a></span>
+					<span class="letter"><a href="authors.php?letter=भ">भ</a></span>
+					<span class="letter"><a href="authors.php?letter=म">म</a></span>
+					<span class="letter"><a href="authors.php?letter=य">य</a></span>
+					<span class="letter"><a href="authors.php?letter=र">र</a></span>
+					<span class="letter"><a href="authors.php?letter=ल">ल</a></span>
+					<span class="letter"><a href="authors.php?letter=व">व</a></span>
+					<span class="letter"><a href="authors.php?letter=श">श</a></span>
+					<span class="letter"><a href="authors.php?letter=ष">ष</a></span>
+					<span class="letter"><a href="authors.php?letter=स">स</a></span>
+					<span class="letter"><a href="authors.php?letter=ह">ह</a></span>
 					<span class="letter"><a href="authors.php?letter=other">#</a></span>
 				</div> 
 <?php
@@ -52,11 +57,11 @@ require_once("common.php");
          exit(1);
  	}
 	
- 	($letter == '') ? $letter = 'ಅ' : $letter = $letter;
+ 	($letter == '') ? $letter = 'अ' : $letter = $letter;
  }
  else
  {
- 	$letter = 'ಅ';
+ 	$letter = 'अ';
  }
 
 if($letter == 'other')

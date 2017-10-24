@@ -44,15 +44,15 @@ if($num_rows > 0)
 		}
 		if($row['year'] != '')
 		{
-			$info = $info . ' <span style="font-size: 0.95em">' . $row['year'] . '</span>';
+			$info = $info . ' <span style="font-size: 0.95em">' . toKannada($row['year']) . '</span>';
 		}
 		if($row['maasa'] != '')
 		{
-			$info = $info . ', ' . $row['maasa'] . '&nbsp;Maasa';
+			$info = $info . ', ' . $row['maasa'] . '&nbsp;माह';
 		}
 		if($row['samvatsara'] != '')
 		{
-			$info = $info . ', ' . $row['samvatsara'] . '&nbsp;Samvatsara';
+			$info = $info . ', ' . $row['samvatsara'] . '&nbsp;संवत्सर';
 		}
 		$info = preg_replace("/^,/", "", $info);
 		$info = preg_replace("/^ /", "", $info);

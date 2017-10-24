@@ -27,11 +27,11 @@ if($yearMonth['year'] != '')
 }
 if($maasa['maasa'] != '')
 {
-	$info = $info . ', ' . $maasa['maasa'] . '&nbsp;Maasa';
+	$info = $info . ', ' . $maasa['maasa'] . '&nbsp;माह';
 }
 if($maasa['samvatsara'] != '')
 {
-	$info = $info . ', ' . $maasa['samvatsara'] . '&nbsp;Samvatsara';
+	$info = $info . ', ' . $maasa['samvatsara'] . '&nbsp;संवत्सर';
 }
 $info = preg_replace("/^,/", "", $info);
 $info = preg_replace("/^ /", "", $info);
