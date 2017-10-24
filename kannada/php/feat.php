@@ -44,7 +44,7 @@ if($num_rows > 0)
 		}
 		if($row['year'] != '')
 		{
-			$info = $info . ' <span style="font-size: 0.95em">' . $row['year'] . '</span>';
+			$info = $info . ' <span style="font-size: 0.95em">' . toKannada($row['year']) . '</span>';
 		}
 		if($row['maasa'] != '')
 		{
