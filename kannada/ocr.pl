@@ -23,11 +23,10 @@ $sth11->execute();
 $sth11->finish();
 @volumes = `ls $language/Text/`;
 
-print "\n$language Text Insertion-------------------\n";
+
 
 for($i1=0;$i1<@volumes;$i1++)
 {
-	print $volumes[$i1];
 	chop($volumes[$i1]);
 	
 	@parts = `ls $language/Text/$volumes[$i1]/`;

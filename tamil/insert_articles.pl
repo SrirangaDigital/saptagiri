@@ -46,7 +46,6 @@ while($line)
 	if($line =~ /<volume vnum="(.*)">/)
 	{
 		$volume = $1;
-		print $volume . "\n";
 	}
 	elsif($line =~ /<part pnum="(.*)" month="(.*)" year="(.*)" maasa="(.*)" samvatsara="(.*)">/)
 	{
