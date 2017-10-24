@@ -165,33 +165,34 @@ function getYear($volume)
 
 function getMonth($month)
 {
-	$month = preg_replace('/01/', 'January', $month);
-	$month = preg_replace('/02/', 'February', $month);
-	$month = preg_replace('/03/', 'March', $month);
-	$month = preg_replace('/04/', 'April', $month);
-	$month = preg_replace('/05/', 'May', $month);
-	$month = preg_replace('/06/', 'June', $month);
-	$month = preg_replace('/07/', 'July', $month);
-	$month = preg_replace('/08/', 'August', $month);
-	$month = preg_replace('/09/', 'September', $month);
-	$month = preg_replace('/10/', 'October', $month);
-	$month = preg_replace('/11/', 'November', $month);
-	$month = preg_replace('/12/', 'December', $month);
+	$month = preg_replace('/01/', 'जनवरी', $month);
+	$month = preg_replace('/02/', 'फेब्रवरी', $month);
+	$month = preg_replace('/03/', 'मार्च्', $month);
+	$month = preg_replace('/04/', 'एप्रिल्', $month);
+	$month = preg_replace('/05/', 'मे', $month);
+	$month = preg_replace('/06/', 'जून्', $month);
+	$month = preg_replace('/07/', 'जुलै', $month);
+	$month = preg_replace('/08/', 'अगस्ट्', $month);
+	$month = preg_replace('/09/', 'सप्टम्बर्', $month);
+	$month = preg_replace('/10/', 'अक्टोबर्', $month);
+	$month = preg_replace('/11/', 'नवम्बर्', $month);
+	$month = preg_replace('/12/', 'डिसेम्बर्', $month);
 	
 	return $month;
 }
+
 function toKannada($value)
 {
-	$value = preg_replace('/0/', '೦', $value);
-	$value = preg_replace('/1/', '೧', $value);
-	$value = preg_replace('/2/', '೨', $value);
-	$value = preg_replace('/3/', '೩', $value);
-	$value = preg_replace('/4/', '೪', $value);
-	$value = preg_replace('/5/', '೫', $value);
-	$value = preg_replace('/6/', '೬', $value);
-	$value = preg_replace('/7/', '೭', $value);
-	$value = preg_replace('/8/', '೮', $value);
-	$value = preg_replace('/9/', '೯', $value);
+	$value = preg_replace('/0/', '॰', $value);
+	$value = preg_replace('/1/', '१', $value);
+	$value = preg_replace('/2/', '२', $value);
+	$value = preg_replace('/3/', '३', $value);
+	$value = preg_replace('/4/', '४', $value);
+	$value = preg_replace('/5/', '५', $value);
+	$value = preg_replace('/6/', '६', $value);
+	$value = preg_replace('/7/', '७', $value);
+	$value = preg_replace('/8/', '८', $value);
+	$value = preg_replace('/9/', '९', $value);
 	
 	return $value;
 }

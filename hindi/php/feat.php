@@ -10,7 +10,7 @@ require_once("common.php");
 if(isset($_GET['feature'])){$feat_name = $_GET['feature'];}else{$feat_name = '';}
 if(isset($_GET['featid'])){$featid = $_GET['featid'];}else{$featid = '';}
 
-echo '<h1 class="clr1 gapBelowSmall">Feature &mdash; ' . $feat_name . '</h1>';
+echo '<h1 class="clr1 gapBelowSmall">सुविधा &mdash; ' . $feat_name . '</h1>';
 
 $feat_name = entityReferenceReplace($feat_name);
 
@@ -44,7 +44,7 @@ if($num_rows > 0)
 		}
 		if($row['year'] != '')
 		{
-			$info = $info . ' <span style="font-size: 0.95em">' . $row['year'] . '</span>';
+			$info = $info . ' <span style="font-size: 0.95em">' . toKannada($row['year']) . '</span>';
 		}
 		if($row['maasa'] != '')
 		{
@@ -60,7 +60,7 @@ if($num_rows > 0)
 		$row['page'] = $sumne[0];
 		echo '<div class="article">';
 		echo '	<div class="gapBelowSmall">';
-		echo '		<span class="aIssue clr5"><a href="toc.php?vol=' . $row['volume'] . '&amp;part=' . $row['part'] . '">Volume ' . toKannada(intval($row['volume'])) . ', Part ' . toKannada($dpart) . ' <span class="font_resize">(' . $info . ')</span></a></span>';
+		echo '		<span class="aIssue clr5"><a href="toc.php?vol=' . $row['volume'] . '&amp;part=' . $row['part'] . '">आयतन ' . toKannada(intval($row['volume'])) . ', मुद्दा ' . toKannada($dpart) . ' <span class="font_resize">(' . $info . ')</span></a></span>';
 		echo '	</div>';
 		//~ echo '	<span class="aTitle"><a target="_blank" href="bookReader.php?volume=' . $row['volume'] . '&amp;part=' . $row['part'] . '&amp;page=' . $row['page'] . '">' . $row['title'] . '</a></span>';
 		//~ DJVU link

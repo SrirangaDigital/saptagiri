@@ -125,7 +125,7 @@ if($num_rows > 0)
 		echo '<div class="article">';
 		echo '	<div class="gapBelowSmall">';
 		echo ($row3['feat_name'] != '') ? '		<span class="aFeature clr2"><a href="feat.php?feature=' . urlencode($row3['feat_name']) . '&amp;featid=' . $row['featid'] . '">' . $row3['feat_name'] . '</a></span> | ' : '';
-		echo '		<span class="aIssue clr5"><a href="toc.php?vol=' . $row['volume'] . '&amp;part=' . $row['part'] . '">Volume ' . intval($row['volume']) . ', Part ' . $dpart . ' <span class="font_resize">(' . $info . ')</span></a></span>';
+		echo '		<span class="aIssue clr5"><a href="toc.php?vol=' . $row['volume'] . '&amp;part=' . $row['part'] . '">आयतन ' . toKannada(intval($row['volume'])) . ', मुद्दा ' . toKannada($dpart) . ' <span class="font_resize">(' . $info . ')</span></a></span>';
 		echo '	</div>';
 		//~ echo '	<span class="aTitle"><a target="_blank" href="bookReader.php?volume=' . $row['volume'] . '&amp;part=' . $row['part'] . '&amp;page=' . $row['page'] . '">' . $row['title'] . '</a></span>';
 		//~ DJVU link
