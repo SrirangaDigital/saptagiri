@@ -2,7 +2,15 @@
 <!DOCTYPE shankara_krupa SYSTEM  "saptagiri.dtd">
 <shankara_krupa>
 	<volume vnum="046">
-		<part pnum="01" month="06" year="2015" maasa="" samvatsara="">
+		<part pnum="01" month="06" year="2015" maasa=" జ్యేష్ఠము– ఆషాఢము" samvatsara="మన్మధ">
+			<entry>
+				<title>పుష్కరతెజం</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author type="1" title="">సంపాదకీయం</author>
+				</allauthors>
+			</entry>
 			<entry>
 				<title>కృష్ణతత్త్వమే పరబ్రహ్మ తత్త్వం</title>
 				<feature></feature>
@@ -147,8 +155,24 @@
 					<author type="1" title="">డి. అనితాసూరి</author>
 				</allauthors>
 			</entry>
+			<entry>
+				<title>గ్రంథ సమీక్ష - శ్రీవేంకటేశ్వర సప్తశతి</title>
+				<feature></feature>
+				<page>0051-0051</page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
 		</part>
-		<part pnum="02" month="07" year="2015" maasa="" samvatsara="">
+		<part pnum="02" month="07" year="2015" maasa="ఆషాఢము – శ్రావణము" samvatsara="మన్మధ">
+			<entry>
+				<title>గురుపూర్ణిమ</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author type="1" title="">సంపాదకీయం</author>
+				</allauthors>
+			</entry>
 			<entry>
 				<title>పుష్కర గోదావరి</title>
 				<feature></feature>
@@ -309,10 +333,26 @@
 					<author type="1" title="">శ్రీమతి వెలమకన్ని పద్మావతి</author>
 				</allauthors>
 		</entry>
+		<entry>
+				<title>గ్రంథ సమీక్ష - శ్రీవేంకటేశ్వర శతకం</title>
+				<feature></feature>
+				<page>0051-0051</page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
 	</part>
-		<part pnum="03" month="08" year="2015" maasa="" samvatsara="">
+		<part pnum="03" month="08" year="2015" maasa=" శ్రావణము – భాద్రపదము" samvatsara="మన్మధ">
 			<entry>
-				<title>వైఖానసం విశిష్టత</title>
+				<title>అంతర్జాలంలో సప్తగిరి</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author type="1" title="">సంపాదకీయం</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>వైఖానసం - విశిష్టత</title>
 				<feature>0007-0011</feature>
 				<page></page>
 				<allauthors>
@@ -431,8 +471,24 @@
 				<author type="1" title="">అవసరాల లక్ష్మీపతిరావు</author>
 			</allauthors>
 		</entry>
+		<entry>
+				<title>గ్రంథ సమీక్ష - రణ వీరాంజనేయ శతకము</title>
+				<feature></feature>
+				<page>0051-0051</page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
 		</part>
-		<part pnum="04" month="09" year="2015" maasa="" samvatsara="">
+		<part pnum="04" month="09" year="2015" maasa="భాద్రపదము – ఆశ్వయుజము" samvatsara="మన్మధ">
+			<entry>
+				<title>వార్షిక బ్రహ్మోత్సవం</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author type="1" title="">సంపాదకీయం</author>
+				</allauthors>
+			</entry>
 			<entry>
 				<title>శ్రీవారి బ్రహ్మోత్సవాలు</title>
 				<feature></feature>
@@ -498,7 +554,15 @@
 			</allauthors>
 		</entry>
 		</part>
-		<part pnum="05" month="10" year="2015" maasa="" samvatsara="">
+		<part pnum="05" month="10" year="2015" maasa="ఆశ్వయుజము – కార్తీకము" samvatsara="మన్మధ">
+			<entry>
+				<title>నవరాత్రి బ్రహ్మోత్సవం</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author type="1" title="">సంపాదకీయం</author>
+				</allauthors>
+			</entry>
 			<entry>
 				<title>శ్రీవారి నవరాత్రి బ్రహ్మోత్సవం</title>
 				<feature></feature>
@@ -564,7 +628,15 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="06" month="11" year="2015" maasa="" samvatsara="">
+		<part pnum="06" month="11" year="2015" maasa="కార్తీకము – మార్గశిరము" samvatsara="మన్మధ">
+			<entry>
+				<title>హరినామస్మరణ</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
 			<entry>
 				<title>అమావాస్యలో పున్నమి</title>
 				<feature></feature>
@@ -696,7 +768,7 @@
 			<entry>
 				<title>దారిదీపాలు</title>
 				<feature></feature>
-				<page>౧౯</page>
+				<page>0019-0020</page>
 				<allauthors>
 					<author type="1" title="">డా॥ అప్పజోడు వేంకటసుబ్బయ్య</author>
 				</allauthors>
@@ -704,7 +776,7 @@
 			<entry>
 				<title>మందార మకరందాలు</title>
 				<feature></feature>
-				<page>౪౧</page>
+				<page>0041-0041</page>
 				<allauthors>
 					<author type="1" title="">డా॥ సి. నారాయణరెడ్డి</author>
 				</allauthors>
@@ -733,8 +805,24 @@
 					<author type="1" title="">ఎమ్ . సి . శివశంకరశాస్త్రి</author>
 				</allauthors>
 			</entry>
+			<entry>
+				<title>గ్రంథ సమీక్ష - హరికథాతత్త్వం</title>
+				<feature></feature>
+				<page>0052-0052</page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>శ్రీవారి సేవ  వాలంటీర్లకు మార్గదర్శకసూత్రాలు</title>
+				<feature></feature>
+				<page>0053-0053</page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
 		</part>
-		<part pnum="07" month="12" year="2015" maasa="" samvatsara="">
+		<part pnum="07" month="12" year="2015" maasa="మార్గశిరము – పుష్యము" samvatsara="మన్మధ">
 			<entry>
 				<title>విచ్చేయవమ్మా వెన్నెలబొమ్మా..!</title>
 				<feature></feature>
@@ -882,7 +970,7 @@
 			<entry>
 				<title>తప్పక సందర్శించండి</title>
 				<feature></feature>
-				<page>0052-0052</page>
+				<page>0052-0053</page>
 				<allauthors>
 					<author type="1" title="">డా॥ పి. వి. రంగనాయకులు</author>
 				</allauthors>
@@ -896,7 +984,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="08" month="01" year="2016" maasa="" samvatsara="">
+		<part pnum="08" month="01" year="2016" maasa="పుష్యము – మాఘము" samvatsara="మన్మధ">
 			<entry>
 				<title>అచ్చతెలుగు పండుగ</title>
 				<feature></feature>
@@ -970,7 +1058,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="09" month="02" year="2016" maasa="" samvatsara="">
+		<part pnum="09" month="02" year="2016" maasa="మాఘము – ఫాల్గుణము" samvatsara="మన్మధ">
 			<entry>
 				<title>రంగుల హరి సిరి సప్తగిరి</title>
 				<feature></feature>
@@ -1116,7 +1204,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="10" month="03" year="2016" maasa="" samvatsara="">
+		<part pnum="10" month="03" year="2016" maasa="ఫాల్గుణము – చైత్రము" samvatsara="మన్మధ">
 			<entry>
 				<title>యత్ర నార్యస్తు పూజ్యంతే..</title>
 				<feature></feature>
@@ -1230,7 +1318,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="11" month="04" year="2016" maasa="" samvatsara="">
+		<part pnum="11" month="04" year="2016" maasa="చైత్రము – వైశాఖము" samvatsara="దుర్ముఖి">
 			<entry>
 				<title>కౌసల్యా సుప్రజా రామా...</title>
 				<feature></feature>
@@ -1362,13 +1450,21 @@
 			<entry>
 				<title>వైకుంఠపాళి</title>
 				<feature></feature>
-				<page>0053</page>
+				<page>0053-0053</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ బి.వి.ఎస్.ఎస్ . సుబ్రహ్మణ్యం</author>
 				</allauthors>
 			</entry>
+			<entry>
+				<title>తి.తి.దే సప్తగిరి మాసప్రతిక విచారణ ప్రశ్నావళి</title>
+				<feature></feature>
+				<page>0054-0054</page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
 		</part>
-		<part pnum="12" month="05" year="2016" maasa="" samvatsara="">
+		<part pnum="12" month="05" year="2016" maasa="వైశాఖము – జ్యేష్ఠము" samvatsara="దుర్ముఖి">
 			<entry>
 				<title>శ్రీమతే రామానుజాయ నమః</title>
 				<feature></feature>
@@ -1508,7 +1604,7 @@
 			<entry>
 				<title>తి.తి.దే. తిరుమల శ్రీవారి ఆలయ విచారణ ప్రశ్నావళి</title>
 				<feature></feature>
-				<page>0053-0053</page>
+				<page>0053-0054</page>
 				<allauthors>
 					<author type="1" title=""></author>
 				</allauthors>
@@ -1516,7 +1612,7 @@
 		</part>
 	</volume>
 	<volume vnum="047">
-		<part pnum="01" month="06" year="2016" maasa="" samvatsara="">
+		<part pnum="01" month="06" year="2016" maasa="జ్యేష్ఠము– ఆషాఢము" samvatsara="దుర్ముఖి">
 			<entry>
 				<title>వేదసమృద్ధిరస్తు</title>
 				<feature></feature>
@@ -1678,7 +1774,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" month="07" year="2016" maasa="" samvatsara="">
+		<part pnum="02" month="07" year="2016" maasa="ఆషాఢము – శ్రావణము" samvatsara="దుర్ముఖి">
 			<entry>
 				<title>వ్యాసపూర్ణిమ</title>
 				<feature></feature>
@@ -1808,7 +1904,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2016" maasa="" samvatsara="">
+		<part pnum="03" month="08" year="2016" maasa="శ్రావణము – భాద్రపదము" samvatsara="దుర్ముఖి">
 			<entry>
 				<title>పావన కృష్ణవేణి!</title>
 				<feature></feature>
@@ -1962,7 +2058,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" month="09" year="2016" maasa="" samvatsara="">
+		<part pnum="04" month="09" year="2016" maasa="భాద్రపదము – ఆశ్వయుజము" samvatsara="దుర్ముఖి">
 			<entry>
 				<title>ఆళ్వారుల బాటలో...</title>
 				<feature></feature>
@@ -2172,7 +2268,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="05" month="10" year="2016" maasa="" samvatsara="">
+		<part pnum="05" month="10" year="2016" maasa="ఆశ్వయుజము – కార్తీకము" samvatsara="దుర్ముఖి">
 			<entry>
 				<title>ఆనందమయం సప్తగిరీశుని బ్రహ్మోత్సవం</title>
 				<feature></feature>
@@ -2302,7 +2398,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="06" month="11" year="2016" maasa="" samvatsara="">
+		<part pnum="06" month="11" year="2016" maasa="కార్తీకము – మార్గశిరము" samvatsara="దుర్ముఖి">
 			<entry>
 				<title>బ్రహ్మోత్సవ మంగళదేవత</title>
 				<feature></feature>
@@ -2448,7 +2544,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="07" month="12" year="2016" maasa="" samvatsara="">
+		<part pnum="07" month="12" year="2016" maasa="మార్గశిరము – పుష్యము" samvatsara="దుర్ముఖి">
 			<entry>
 				<title>గీతామృతం</title>
 				<feature></feature>
@@ -2610,7 +2706,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="08" month="01" year="2017" maasa="" samvatsara="">
+		<part pnum="08" month="01" year="2017" maasa="పుష్యము – మాఘము" samvatsara="దుర్ముఖి">
 			<entry>
 				<title>సర్వేజనాస్సుఖినోభవతు</title>
 				<feature></feature>
@@ -2772,7 +2868,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="09" month="02" year="2017" maasa="" samvatsara="">
+		<part pnum="09" month="02" year="2017" maasa="మాఘము – ఫాల్గుణము" samvatsara="దుర్ముఖి">
 			<entry>
 				<title>ప్రత్యక్షదైవానికి ప్రణామాలు</title>
 				<feature></feature>
@@ -2958,7 +3054,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="10" month="03" year="2017" maasa="" samvatsara="">
+		<part pnum="10" month="03" year="2017" maasa="ఫాల్గుణము – చైత్రము" samvatsara="దుర్ముఖి">
 			<entry>
 				<title>ఉగాది</title>
 				<feature></feature>
@@ -3120,7 +3216,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="11" month="04" year="2017" maasa="" samvatsara="">
+		<part pnum="11" month="04" year="2017" maasa="చైత్రము – వైశాఖము" samvatsara="హేవళంబి">
 			<entry>
 				<title>మానవాళికి మార్గదర్శనం!</title>
 				<feature></feature>
@@ -3314,7 +3410,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="12" month="05" year="2017" maasa="" samvatsara="">
+		<part pnum="12" month="05" year="2017" maasa="వైశాఖము – జ్యేష్ఠము" samvatsara="హేవళంబి">
 			<entry>
 				<title>మహనీయులందరూ ఈమాసంలోనే..!</title>
 				<feature></feature>
@@ -3462,11 +3558,19 @@
 		</part>
 	</volume>
 	<volume vnum="048">
-		<part pnum="01" month="06" year="2017" maasa="" samvatsara="">
+		<part pnum="01" month="06" year="2017" maasa="జ్యేష్ఠము– ఆషాఢము" samvatsara="హేవళంబి">
+			<entry>
+				<title>గౌరవ సంపాదకులకు సౌహార్దస్వాగతం</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author type="1" title="">సంపాదకీయం</author>
+				</allauthors>
+			</entry>
 			<entry>
 				<title>శ్రీవారి జ్యేష్ఠాభిషేకం</title>
 				<feature></feature>
-				<page>౦౭</page>
+				<page>0007-0010</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ అర్చకం రామకృష్ణదీక్షితులు</author>
 				</allauthors>
@@ -3474,7 +3578,7 @@
 			<entry>
 				<title>శ్రీకల్యాణ వేంకటేశ్వరస్వామి ఆలయం, నారాయణవనం</title>
 				<feature></feature>
-				<page>౧౧</page>
+				<page>0011-0012</page>
 				<allauthors>
 					<author type="1" title="">డా॥ విష్ణుభట్ల గోపాలకృష్టమూర్తి</author>
 				</allauthors>
@@ -3482,7 +3586,7 @@
 			<entry>
 				<title>పరమయోగివిలాసం</title>
 				<feature></feature>
-				<page>౧౩</page>
+				<page>0013-0016</page>
 				<allauthors>
 					<author type="1" title="">ఆచార్య కె. సర్వోత్తమరావు</author>
 				</allauthors>
@@ -3490,7 +3594,7 @@
 			<entry>
 				<title>శ్రీవేంకటేశ్వరాలయం, హృషీకేశ్</title>
 				<feature></feature>
-				<page>౧౭</page>
+				<page>0017-0018</page>
 				<allauthors>
 					<author type="1" title="">కీ. శే. డా॥ కోరాడ రామకృష్ణ</author>
 				</allauthors>
@@ -3498,7 +3602,7 @@
 			<entry>
 				<title>శ్రీప్రసన్న వేంకటేశ్వరస్వామి ఆలయం, అప్పలాయగుంట</title>
 				<feature></feature>
-				<page>౧౯</page>
+				<page>0019-0021</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ పి. కృష్ణమూర్తి</author>
 				</allauthors>
@@ -3506,7 +3610,7 @@
 			<entry>
 				<title>శ్రీనివాసుడే.. కాపాడకపాయుంటే..!!</title>
 				<feature></feature>
-				<page>౨౨</page>
+				<page>0022-0022</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ ఆర్లగడ్డ శంకర్</author>
 				</allauthors>
@@ -3514,7 +3618,7 @@
 			<entry>
 				<title>తేజోమూర్తి! మరీచి మహర్షి!!ే</title>
 				<feature></feature>
-				<page>౨౩</page>
+				<page>0023-0024</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ చాకిచెర్ల నాగ సుదర్శన రావు</author>
 				</allauthors>
@@ -3522,7 +3626,7 @@
 			<entry>
 				<title>తిరుమలనంబి జీవితం శ్రీహరి కైంకర్యం</title>
 				<feature></feature>
-				<page>౨౫</page>
+				<page>0025-0026</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ వేమరాజు అనంతపద్మనాభం</author>
 				</allauthors>
@@ -3530,7 +3634,7 @@
 			<entry>
 				<title>శ్రీకల్యాణ వేంకటేశ్వరస్వామి సాక్షాత్కార వైభవోత్సవం, శ్రీనివాసమంగాపురం</title>
 				<feature></feature>
-				<page>౩౧</page>
+				<page>0031-0034</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ జూలకంటి బాలసుబ్రహ్మణ్యం</author>
 				</allauthors>
@@ -3538,7 +3642,7 @@
 			<entry>
 				<title>దేహం - దేవాలయం</title>
 				<feature></feature>
-				<page>౩౫</page>
+				<page>0035-0035</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ మంత్రవాది మహేశ్వర</author>
 				</allauthors>
@@ -3546,7 +3650,7 @@
 			<entry>
 				<title>కైంకర్యమే తనువుదాల్చితే...</title>
 				<feature></feature>
-				<page>౩౬</page>
+				<page>0036-0037</page>
 				<allauthors>
 					<author type="1" title="">డా॥ కంపల్లె రవిచంద్రన్</author>
 				</allauthors>
@@ -3554,15 +3658,23 @@
 			<entry>
 				<title>అంబరీషుడు</title>
 				<feature></feature>
-				<page>౩౮</page>
+				<page>0038-0039</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ ఎన్. మునిరామయ్య</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>గ్రంథ సమీక్ష - మహాభారతానుశీలనమ్</title>
+				<feature></feature>
+				<page>0040-0040</page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>భాగవతం - ముక్తిదాయకం</title>
 				<feature></feature>
-				<page>౪౧</page>
+				<page>0041-0044</page>
 				<allauthors>
 					<author type="1" title="">డా॥ కె. బి. రాజేంద్రప్రసాద్</author>
 				</allauthors>
@@ -3570,7 +3682,7 @@
 			<entry>
 				<title>దేవతల వాహనాలు - వైవిద్యానికి ఆనవాలు</title>
 				<feature></feature>
-				<page>౪౫</page>
+				<page>0045-0046</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ అప్పాల శ్యామప్రణీత్ శర్మ అవధాని</author>
 				</allauthors>
@@ -3578,7 +3690,7 @@
 			<entry>
 				<title>ఏరువాక వున్నమ</title>
 				<feature></feature>
-				<page>౪౭</page>
+				<page>0047-0048</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ డి. శ్రీనివాసదీక్షితులు</author>
 				</allauthors>
@@ -3586,7 +3698,7 @@
 			<entry>
 				<title>సందేహాలు - సమాధానాలు</title>
 				<feature></feature>
-				<page>౪౯</page>
+				<page>0049-0049</page>
 				<allauthors>
 					<author type="1" title="">డా॥ చిన్నలక్ష్మి కళావతి</author>
 				</allauthors>
@@ -3594,7 +3706,7 @@
 			<entry>
 				<title>తరిగొండ వెంగమాంబ చెప్పిన యోగ విశేషాలు</title>
 				<feature></feature>
-				<page>౫౦</page>
+				<page>0050-0052</page>
 				<allauthors>
 					<author type="1" title="">డా॥ సంగీతం కేశవులు</author>
 				</allauthors>
@@ -3602,7 +3714,7 @@
 			<entry>
 				<title>రాశిఫలాలు</title>
 				<feature></feature>
-				<page>౫౩</page>
+				<page>0053-0053</page>
 				<allauthors>
 					<author type="1" title="">బ్రహ్మశ్రీ టి.వి.కె. పూర్ణప్రసాద సిద్ధాంతి</author>
 				</allauthors>
@@ -3610,17 +3722,25 @@
 			<entry>
 				<title>వైకుంఠపాళి</title>
 				<feature></feature>
-				<page>౫౪</page>
+				<page>0054-0054</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ టి. ఎస్. జగన్మోహన్</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" month="07" year="2017" maasa="" samvatsara="">
+		<part pnum="02" month="07" year="2017" maasa="ఆషాఢము – శ్రావణము" samvatsara="హేవళంబి">
+			<entry>
+				<title>వ్యాసపూర్ణిమ</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author type="1" title="">సంపాదకీయం</author>
+				</allauthors>
+			</entry>
 			<entry>
 				<title>ఆనందనిలయుని... అణివర అస్థానం</title>
 				<feature></feature>
-				<page>౦౭</page>
+				<page>0007-0010</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ జె. బాలసుబ్రహ్మణ్యం</author>
 				</allauthors>
@@ -3628,7 +3748,7 @@
 			<entry>
 				<title>గరుడపంచమి</title>
 				<feature></feature>
-				<page>౧౧</page>
+				<page>0011-0012</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ ఐ.ఎల్.ఎన్. చంద్రశేఖర రావు</author>
 				</allauthors>
@@ -3636,7 +3756,7 @@
 			<entry>
 				<title>పరమయోగివిలాసం</title>
 				<feature></feature>
-				<page>౧౩</page>
+				<page>0013-0015</page>
 				<allauthors>
 					<author type="1" title="">ఆచార్య కె. సర్వోత్తమరావు</author>
 				</allauthors>
@@ -3644,7 +3764,7 @@
 			<entry>
 				<title>వైఖానసము - విశిష్టత</title>
 				<feature></feature>
-				<page>౧౬</page>
+				<page>0016-0018</page>
 				<allauthors>
 					<author type="1" title="">ఆచార్య వేదాంతం శ్రీ విష్టుభట్టాచార్య</author>
 				</allauthors>
@@ -3652,7 +3772,7 @@
 			<entry>
 				<title>పెరియాళ్వార్లు</title>
 				<feature></feature>
-				<page>౧౯</page>
+				<page>0019-0020</page>
 				<allauthors>
 					<author type="1" title="">డా॥ ఈ. ఏ. శింగరాచార్యులు</author>
 				</allauthors>
@@ -3660,7 +3780,7 @@
 			<entry>
 				<title>ప్రహ్లాదుడు</title>
 				<feature></feature>
-				<page>౨౧</page>
+				<page>0021-0022</page>
 				<allauthors>
 					<author type="1" title="">శ్రీమతి ఎం. మంజుల</author>
 				</allauthors>
@@ -3668,7 +3788,7 @@
 			<entry>
 				<title>శ్రీగురుభ్యోనమః</title>
 				<feature></feature>
-				<page>౨౩</page>
+				<page>0023-0024</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ ఎం. ఎం. ఈశ్వర్</author>
 				</allauthors>
@@ -3676,7 +3796,7 @@
 			<entry>
 				<title>చాతుర్మాస్యాలు</title>
 				<feature></feature>
-				<page>౨౫</page>
+				<page>0025-0026</page>
 				<allauthors>
 					<author type="1" title="">డా॥ అయాచితం నటేశ్వరశర్మ</author>
 				</allauthors>
@@ -3684,7 +3804,7 @@
 			<entry>
 				<title>నిత్యకల్యాణస్వామికి ప్రతినిత్యమూ సేవలే!</title>
 				<feature></feature>
-				<page>౩౧</page>
+				<page>0031-0038</page>
 				<allauthors>
 					<author type="1" title="">శ్రీమతి వి.అరుణ</author>
 				</allauthors>
@@ -3692,7 +3812,7 @@
 			<entry>
 				<title>కైంకర్యమే తనువుదాల్చితే...</title>
 				<feature></feature>
-				<page>౩౮</page>
+				<page>0038-0040</page>
 				<allauthors>
 					<author type="1" title="">డా॥ కంపల్లె రవిచంద్రన్</author>
 				</allauthors>
@@ -3700,7 +3820,7 @@
 			<entry>
 				<title>మంగళగౌరీ వ్రతం</title>
 				<feature></feature>
-				<page>౪౧</page>
+				<page>0041-0043</page>
 				<allauthors>
 					<author type="1" title="">శ్రీమతి మధురకవి సత్యవతి</author>
 				</allauthors>
@@ -3708,7 +3828,7 @@
 			<entry>
 				<title>సందేహాలు - సమాధానాలు</title>
 				<feature></feature>
-				<page>౪౪</page>
+				<page>0044-0044</page>
 				<allauthors>
 					<author type="1" title="">డా॥ చిన్నలక్ష్మి కళావతి</author>
 				</allauthors>
@@ -3716,7 +3836,7 @@
 			<entry>
 				<title>సుదర్శన మహిమ</title>
 				<feature></feature>
-				<page>౪౫</page>
+				<page>0045-0046</page>
 				<allauthors>
 					<author type="1" title="">శ్రీమతి ఈ. జయలక్ష్మి</author>
 				</allauthors>
@@ -3724,7 +3844,7 @@
 			<entry>
 				<title>శ్రీ సుందరరాజస్వామి ఆలయం</title>
 				<feature></feature>
-				<page>౪౭</page>
+				<page>0047-0048</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ జె. అనిల్ కుమార్</author>
 				</allauthors>
@@ -3732,7 +3852,7 @@
 			<entry>
 				<title>శ్రీపట్టాభిరామాలయం, వాల్మీకిపురం (వాయల్పాడు)</title>
 				<feature></feature>
-				<page>౪౯</page>
+				<page>0049-0050</page>
 				<allauthors>
 					<author type="1" title="">డా॥ కె.వి. రాఘవాచార్య</author>
 				</allauthors>
@@ -3740,15 +3860,23 @@
 			<entry>
 				<title>ఆపదమొక్కులవాడు</title>
 				<feature></feature>
-				<page>౫౧</page>
+				<page>0051-0051</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ భాస్కరభట్ల బాలసుబ్రహ్మణ్యం శర్మ</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>గ్రంథ సమీక్ష - హరివంశనామసర్వస్వము</title>
+				<feature></feature>
+				<page>0052-0052</page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>రాళిఫలాలు</title>
 				<feature></feature>
-				<page>౫౩</page>
+				<page>0053-0053</page>
 				<allauthors>
 					<author type="1" title="">బ్రహ్మశ్రీ టి.వి.కె. పూర్ణప్రసాద సిద్ధాంతి</author>
 				</allauthors>
@@ -3756,17 +3884,25 @@
 			<entry>
 				<title>వైకుంఠపా‌ళి</title>
 				<feature></feature>
-				<page>౫౪</page>
+				<page>0054-0054</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ టి. ఎస్. జగన్మోహన్</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" month="08" year="2017" maasa="" samvatsara="">
+		<part pnum="03" month="08" year="2017" maasa="శ్రావణము – భాద్రపదము" samvatsara="హేవళంబి">
+			<entry>
+				<title>శ్రావణలక్ష్మికి స్వాగతం</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author type="1" title="">సంపాదకీయం</author>
+				</allauthors>
+			</entry>
 			<entry>
 				<title>మహాగణపతిం మనసాస్మరామి</title>
 				<feature></feature>
-				<page>౦౭</page>
+				<page>0007-0009</page>
 				<allauthors>
 					<author type="1" title="">బ్రహ్మశ్రీ సామవేదం షణ్ముఖశర్మ</author>
 				</allauthors>
@@ -3774,7 +3910,7 @@
 			<entry>
 				<title>ధరణిని బ్రోచిన వరాహరూపా నారాయణ..</title>
 				<feature></feature>
-				<page>౧౦</page>
+				<page>0010-0011</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ మేళ్లచేఱువు ప్రవీణ్ కుమార్</author>
 				</allauthors>
@@ -3782,7 +3918,7 @@
 			<entry>
 				<title>పరమయోగివిలాసం</title>
 				<feature></feature>
-				<page>౧౨</page>
+				<page>0012-0013</page>
 				<allauthors>
 					<author type="1" title="">ఆచార్య కె. సర్వోత్తమరావు</author>
 				</allauthors>
@@ -3790,7 +3926,7 @@
 			<entry>
 				<title>గోవు మాలక్ష్మికి.. కోటిదండాలు..!</title>
 				<feature></feature>
-				<page>౧౪</page>
+				<page>0014-0018</page>
 				<allauthors>
 					<author type="1" title="">డా॥ కె. రవిచంద్రన్</author>
 				</allauthors>
@@ -3798,7 +3934,7 @@
 			<entry>
 				<title>ఐశ్వర్యప్రదం... వరలక్ష్మీవ్రతం</title>
 				<feature></feature>
-				<page>౧౯</page>
+				<page>0019-0022</page>
 				<allauthors>
 					<author type="1" title="">డా॥ మైలవరపు శ్రీనివాసరావు</author>
 				</allauthors>
@@ -3806,7 +3942,7 @@
 			<entry>
 				<title>బలరామావతారం</title>
 				<feature></feature>
-				<page>౨౩</page>
+				<page>0023-0025</page>
 				<allauthors>
 					<author type="1" title="">బ్రహ్మశ్రీ చాగంటి కోటేశ్వరరావు శర్మ</author>
 				</allauthors>
@@ -3814,7 +3950,7 @@
 			<entry>
 				<title>అశుచిదోషాలు పోగొట్టేవ్రతం</title>
 				<feature></feature>
-				<page>౨౬</page>
+				<page>0026-0026</page>
 				<allauthors>
 					<author type="1" title="">శ్రీమతి డి. వరలక్ష్మి</author>
 				</allauthors>
@@ -3822,7 +3958,7 @@
 			<entry>
 				<title>శ్రీహయగ్రీవాయనమః	</title>
 				<feature></feature>
-				<page>౩౧</page>
+				<page>0031-0031</page>
 				<allauthors>
 					<author type="1" title="">విద్వాన్, డా॥ పమిడికాల్వ చెంచుసుబ్బయ్య</author>
 				</allauthors>
@@ -3830,7 +3966,7 @@
 			<entry>
 				<title>జయవిజయులే దర్శనం చేయించారు</title>
 				<feature></feature>
-				<page>౩౨</page>
+				<page>0032-0034</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ పెనిజర్ల మెహన్</author>
 				</allauthors>
@@ -3838,7 +3974,7 @@
 			<entry>
 				<title>కైంకర్యమే తనువుదాల్చితే...</title>
 				<feature></feature>
-				<page>౩౫</page>
+				<page>0035-0036</page>
 				<allauthors>
 					<author type="1" title="">డా॥ కంపల్లె రవిచంద్రన్</author>
 				</allauthors>
@@ -3846,7 +3982,7 @@
 			<entry>
 				<title>స్నేహం</title>
 				<feature></feature>
-				<page>౩౭</page>
+				<page>0037-0037</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ కాటూరు రవీంద్రత్రివిక్రమ్</author>
 				</allauthors>
@@ -3854,7 +3990,7 @@
 			<entry>
 				<title>చేతవెన్నముద్ద!</title>
 				<feature></feature>
-				<page>౩౮</page>
+				<page>0038-0039</page>
 				<allauthors>
 					<author type="1" title="">శ్రీమతి పురాణపండ వైజయంతి</author>
 				</allauthors>
@@ -3862,7 +3998,7 @@
 			<entry>
 				<title>ఆడికృత్తిక</title>
 				<feature></feature>
-				<page>౪౦</page>
+				<page>0040-0040</page>
 				<allauthors>
 					<author type="1" title="">డా॥ పి. రోహిణి</author>
 				</allauthors>
@@ -3870,7 +4006,7 @@
 			<entry>
 				<title>భామనే.. సత్యభామనే..!!</title>
 				<feature></feature>
-				<page>౪౧</page>
+				<page>0041-0042</page>
 				<allauthors>
 					<author type="1" title="">డా॥ అప్పజోడు వేంకసుబ్బయ్య</author>
 				</allauthors>
@@ -3878,7 +4014,7 @@
 			<entry>
 				<title>కొండలలో కొలువైన.. కోటిజ్ఞానకాంతులస్వామి</title>
 				<feature></feature>
-				<page>౪౩</page>
+				<page>0043-0044</page>
 				<allauthors>
 					<author type="1" title="">శ్రీమతి డి. పూర్ణిమాస్వాతి</author>
 				</allauthors>
@@ -3886,7 +4022,7 @@
 			<entry>
 				<title>బాలం ముకుందం మనసాస్మరామి</title>
 				<feature></feature>
-				<page>౪౫</page>
+				<page>0045-0045</page>
 				<allauthors>
 					<author type="1" title="">డా॥ యల్లాప్రగడ మల్లికార్జునరావు</author>
 				</allauthors>
@@ -3894,15 +4030,23 @@
 			<entry>
 				<title>ఆరోగ్యానికి వెలుగుచుక్క</title>
 				<feature></feature>
-				<page>౪౬</page>
+				<page>0046-0047</page>
 				<allauthors>
 					<author type="1" title="">డా॥ జి.వి. పూర్ణచందు</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>గ్రంథ సమీక్ష - ప్రకృతివిలాసం</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>యశోదస్వగతం</title>
 				<feature></feature>
-				<page>౪౯</page>
+				<page>0049-0052</page>
 				<allauthors>
 					<author type="1" title="">శ్రీమతి చలసాని వసువతి</author>
 				</allauthors>
@@ -3910,7 +4054,7 @@
 			<entry>
 				<title>రాశిఫలాలు</title>
 				<feature></feature>
-				<page>౫౩</page>
+				<page>0053-0053</page>
 				<allauthors>
 					<author type="1" title="">బ్రహ్మశ్రీ టి.వి.కె.పూర్ణప్రసాద సిద్ధాంతి</author>
 				</allauthors>
@@ -3918,25 +4062,33 @@
 			<entry>
 				<title>వైకుంఠపాళి</title>
 				<feature></feature>
-				<page>౫౪</page>
+				<page>0054-0054</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ టి.ఎస్. జగన్మోహన్</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" month="09" year="2017" maasa="" samvatsara="">
+		<part pnum="04" month="09" year="2017" maasa="భాద్రపదము – ఆశ్వయుజము" samvatsara="హేవళంబి">
 			<entry>
 				<title>పవిత్రోత్సవం దర్శయామి!!</title>
 				<feature></feature>
-				<page>౦౪</page>
+				<page>0004-0004</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ డి. అజయ్ కుమార్ అర్చకస్వామి</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>బ్రహ్మోత్సవ దర్శన ప్రాప్తిరస్తు!!</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author type="1" title="">సంపాదకీయం</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>స్వామికృపకు పాత్రులౌదాం రండి!!</title>
 				<feature></feature>
-				<page>౦౭</page>
+				<page>0007-0008</page>
 				<allauthors>
 					<author type="1" title="">శ్రీమాన్ అర్చకం రామకృష్ణదీక్షితులు</author>
 				</allauthors>
@@ -3944,7 +4096,7 @@
 			<entry>
 				<title>అద్భుతాలవలయం... ఆనంద నిలయం!</title>
 				<feature></feature>
-				<page>౦౯</page>
+				<page>0009-0014</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ జూలకంటి బాలసుబ్రహ్ణణ్యం</author>
 				</allauthors>
@@ -3952,7 +4104,7 @@
 			<entry>
 				<title>శ్రీవేంకటేశుని కీర్తికిరీటాలు...</title>
 				<feature></feature>
-				<page>౧౫</page>
+				<page>0015-0015</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ పి.వి.లక్ష్మీనారాయణ</author>
 				</allauthors>
@@ -3960,7 +4112,7 @@
 			<entry>
 				<title>మూడడుగుల దానమే చాలు!!</title>
 				<feature></feature>
-				<page>౧౬</page>
+				<page>0016-0017</page>
 				<allauthors>
 					<author type="1" title="">శ్రీమతి మల్లాది రామలక్ష్మి</author>
 				</allauthors>
@@ -3968,7 +4120,7 @@
 			<entry>
 				<title>ఛత్రమా.. హరిఛత్రమా...!</title>
 				<feature></feature>
-				<page>౧౮</page>
+				<page>0018-0019</page>
 				<allauthors>
 					<author type="1" title="">శ్రీమతి మొలకా ఉత్తరఫల్గుణి</author>
 				</allauthors>
@@ -3976,7 +4128,7 @@
 			<entry>
 				<title>పరమయోగివిలాసం</title>
 				<feature></feature>
-				<page>౨౦</page>
+				<page>0020-0021</page>
 				<allauthors>
 					<author type="1" title="">ఆచార్య కె. సర్వోత్తమరావు</author>
 				</allauthors>
@@ -3984,7 +4136,7 @@
 			<entry>
 				<title>మహామణిమండవశోభితుడు!!</title>
 				<feature></feature>
-				<page>౨౨</page>
+				<page>0022-0023</page>
 				<allauthors>
 					<author type="1" title="">డా॥ రేవూరు అనంతపద్మనాభరావు</author>
 				</allauthors>
@@ -3992,7 +4144,7 @@
 			<entry>
 				<title>భక్తుల బ్రోవుమా... పుణ్యనదీమతల్లీ..!!</title>
 				<feature></feature>
-				<page>౨౪</page>
+				<page>0024-0026</page>
 				<allauthors>
 					<author type="1" title="">డా॥ పులిగడ్డ విజయలక్ష్మి</author>
 				</allauthors>
@@ -4000,7 +4152,7 @@
 			<entry>
 				<title>నవరాత్రోత్సవాల్లో దేవీపూజలు</title>
 				<feature></feature>
-				<page>౩౧</page>
+				<page>0031-0032</page>
 				<allauthors>
 					<author type="1" title="">శ్రీమతి పల్లం పద్మావతి</author>
 				</allauthors>
@@ -4008,7 +4160,7 @@
 			<entry>
 				<title>ఓం నమో వేంకటేశాయ</title>
 				<feature></feature>
-				<page>౩౩</page>
+				<page>0033-0033</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ బి. బాలక్రిష్ణసింగ్</author>
 				</allauthors>
@@ -4016,7 +4168,7 @@
 			<entry>
 				<title>అనంతశయనా! పద్మనాభా!!</title>
 				<feature></feature>
-				<page>౩౪</page>
+				<page>0034-0034</page>
 				<allauthors>
 					<author type="1" title="">శ్రీమతి డేగల అనితాసూరి</author>
 				</allauthors>
@@ -4024,7 +4176,7 @@
 			<entry>
 				<title>తొలిదర్శనభాగ్యంలో</title>
 				<feature></feature>
-				<page>౩౬</page>
+				<page>0036-0037</page>
 				<allauthors>
 					<author type="1" title="">శ్రీమతి పి. నీలావతి</author>
 				</allauthors>
@@ -4032,7 +4184,7 @@
 			<entry>
 				<title>ఝాంసింగ్ బాలాజీఆలయం, భాగ్యనగరం</title>
 				<feature></feature>
-				<page>౩౮</page>
+				<page>0038-0039</page>
 				<allauthors>
 					<author type="1" title="">శ్రీమతి పసుమర్తి రామలక్ష్మి</author>
 				</allauthors>
@@ -4040,7 +4192,7 @@
 			<entry>
 				<title>బ్రహ్మోత్సవం! భవ్యోత్సవం !! (గేయం)</title>
 				<feature></feature>
-				<page>౩౯</page>
+				<page>0039-0039</page>
 				<allauthors>
 					<author type="1" title="">డా॥ మరింగంటి లక్షణాచార్యులు</author>
 				</allauthors>
@@ -4048,7 +4200,7 @@
 			<entry>
 				<title>వందనం.. మన సంస్కృతీనందనం!</title>
 				<feature></feature>
-				<page>౪౦</page>
+				<page>0040-0041</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ ఎం. సూర్యప్రసాదరావు</author>
 				</allauthors>
@@ -4056,7 +4208,7 @@
 			<entry>
 				<title>గరుడపతాకం ఎగిరింది..!</title>
 				<feature></feature>
-				<page>౪౨</page>
+				<page>0042-0043</page>
 				<allauthors>
 					<author type="1" title="">డా॥ కె. రవిచంద్రన్</author>
 				</allauthors>
@@ -4064,7 +4216,7 @@
 			<entry>
 				<title>మా అదృష్టం</title>
 				<feature></feature>
-				<page>౪౪</page>
+				<page>0044-0044</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ కె. సాయిసురేష్</author>
 				</allauthors>
@@ -4072,7 +4224,7 @@
 			<entry>
 				<title>ఎలాంటివారితో స్నేహం చెయ్యాలి!</title>
 				<feature></feature>
-				<page>౪౫</page>
+				<page>0045-0046</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ అవసరాల లక్ష్మీపతిరావు</author>
 				</allauthors>
@@ -4080,7 +4232,7 @@
 			<entry>
 				<title>కల్యాణఘట్టమే.. కల్యాణకట్ట!!</title>
 				<feature></feature>
-				<page>౪౭</page>
+				<page>0047-0047</page>
 				<allauthors>
 					<author type="1" title="">శ్రీమతి ఈతకోటి మునెమ్మముత్తుక్రిష్ణన్</author>
 				</allauthors>
@@ -4088,7 +4240,7 @@
 			<entry>
 				<title>స్వామి ఆశీర్వాదముంటేనే...</title>
 				<feature></feature>
-				<page>౪౮</page>
+				<page>0048-0048</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ అన్నవరం సత్యనారాయణరావు</author>
 				</allauthors>
@@ -4096,7 +4248,7 @@
 			<entry>
 				<title>కెంకర్యమే తనువుదాల్చితే...</title>
 				<feature></feature>
-				<page>౪౯</page>
+				<page>0049-0050</page>
 				<allauthors>
 					<author type="1" title="">డా॥ కంపల్లె రవిచంద్రన్</author>
 				</allauthors>
@@ -4104,15 +4256,23 @@
 			<entry>
 				<title>భామనే... సత్యభామనే..!!</title>
 				<feature></feature>
-				<page>౫౧</page>
+				<page>0051-0051</page>
 				<allauthors>
 					<author type="1" title="">డా॥ అప్పజోడు వేంకటసుబ్బయ్య</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>గ్రంథ సమీక్ష - తిరుమల తిరుపతి దేవస్థానం పోతనప్రణీత శ్రీమహాభాగవతం</title>
+				<feature></feature>
+				<page>0052-0052</page>
+				<allauthors>
+					<author type="1" title=""></author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>రాశిఫలాలు</title>
 				<feature></feature>
-				<page>౫౩</page>
+				<page>0053-0053</page>
 				<allauthors>
 					<author type="1" title="">బ్రహ్మశ్రీ టి.వి.కె. పూర్ణప్రసాద సిద్ధాంతి</author>
 				</allauthors>
@@ -4120,13 +4280,13 @@
 			<entry>
 				<title>వైకుంఠపాళి</title>
 				<feature></feature>
-				<page>౫౪</page>
+				<page>0054-0054</page>
 				<allauthors>
 					<author type="1" title="">శ్రీ టి. ఎస్ . జగన్మోహన్</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="05" month="10" year="2017" maasa="" samvatsara="">
+		<part pnum="05" month="10" year="2017" maasa="ఆశ్వయుజము – కార్తీకము" samvatsara="హేవళంబి">
 			<entry>
 				<title>ఆనందనిలయుని సేవలో ఆళ్వారులు</title>
 				<feature></feature>
