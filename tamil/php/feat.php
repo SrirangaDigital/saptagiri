@@ -44,24 +44,24 @@ if($num_rows > 0)
 		}
 		if($row['year'] != '')
 		{
-			$info = $info . ' <span style="font-size: 0.95em">' . $row['year'] . '</span>';
+			$info = $info . ' <span style="font-size: 0.95em">' . toKannada($row['year']) . '</span>';
 		}
 		if($row['maasa'] != '')
 		{
-			$info = $info . ', ' . $row['maasa'] . '&nbsp;ಮಾಸ';
+			$info = $info . ', ' . $row['maasa'] . '&nbsp;மாதம்';
 		}
 		if($row['samvatsara'] != '')
 		{
-			$info = $info . ', ' . $row['samvatsara'] . '&nbsp;ಸಂವತ್ಸರ';
+			$info = $info . ', ' . $row['samvatsara'] . '&nbsp;மாலை';
 		}
 		$info = preg_replace("/^,/", "", $info);
 		$info = preg_replace("/^ /", "", $info);
 		
 		echo '<div class="article">';
 		echo '	<div class="gapBelowSmall">';
-		echo '		<span class="aIssue clr5"><a href="toc.php?vol=' . $row['volume'] . '&amp;part=' . $row['part'] . '">ಸಂಪುಟ ' . toKannada(intval($row['volume'])) . ', ಸಂಚಿಕೆ ' . toKannada($dpart) . ' <span class="font_resize">(' . $info . ')</span></a></span>';
+		echo '		<span class="aIssue clr5"><a href="toc.php?vol=' . $row['volume'] . '&amp;part=' . $row['part'] . '">மலர்கள் ' . toKannada(intval($row['volume'])) . ', வெளியீடு ' . toKannada($dpart) . ' <span class="font_resize">(' . $info . ')</span></a></span>';
 		echo '	</div>';
-		echo '	<span class="aTitle"><a target="_blank" href="../Volumes/djvu/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['page'] . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+		echo '	<span class="aTitle"><a target="_blank" href="../Volumes/pdf/' . $row['volume'] . '/' . $row['part'] . '/index.pdf#page=' . intval($row['page']) . '">' . $row['title'] . '</a></span><br />';
 		if($row['authid'] != 0)
 		{
 			echo '	<span class="aAuthor">&nbsp;&mdash;';
