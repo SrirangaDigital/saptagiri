@@ -36,7 +36,7 @@ if($maasa['samvatsara'] != '')
 $info = preg_replace("/^,/", "", $info);
 $info = preg_replace("/^ /", "", $info);
 
-echo '<h1 class="clr1 gapBelowSmall">Volume ' . toKannada(intval($volume)) . ', Part ' . toKannada($dpart) . ' <span style="font-size: 0.85em">(' . $info . ')</span></h1>';
+echo '<h1 class="clr1 gapBelowSmall">आयतन ' . toKannada(intval($volume)) . ', मुद्दा ' . toKannada($dpart) . ' <span style="font-size: 0.85em">(' . $info . ')</span></h1>';
 
 
 if(!(isValidVolume($volume) && isValidPart($part)))

@@ -15,14 +15,14 @@
 	<script src="js/jquery-2.1.1.js"></script>
 	<script type="text/javascript" src="js/jquery-ui.js"></script>
   	
-	<title>Saptagiri</title>
+	<title>सप्तगिरि</title>
 </head>
 <body>
 	<header class="cd-header">
 		<div id="cd-logo">
 			<a href="../index.html#home">
 				<img src="img/logo.gif" alt="Logo">
-				<span>Saptagiri</span>
+				<span>सप्तगिरि</span>
 				<!--<img src="img/logo2.gif" alt="Logo"> -->
 			</a>
 		</div>
@@ -40,11 +40,11 @@
 			<a href="#0" class="cd-sec-nav-trigger">Menu<span></span></a>
 			<nav id="cd-sec-main-nav">
 				<ul>
-					<li><a href="volumes.php"><i class="fa fa-book"></i> Volumes</a></li>
-					<li><a href="articles.php"><i class="fa fa-files-o"></i> Articles</a></li>
-					<li><a href="authors.php"><i class="fa fa-users"></i> Authors</a></li>
-					<li><a href="#"><i class="fa fa-tags"></i> Feature</a></li>
-					<li><a href="search.php"><i class="fa fa-search"></i> Search</a></li>
+					<li><a href="volumes.php"><i class="fa fa-book"></i> आयतन</a></li>
+					<li><a href="articles.php"><i class="fa fa-files-o"></i> आर्टिकल्स</a></li>
+					<li><a href="authors.php"><i class="fa fa-users"></i> लेखक</a></li>
+					<li><a href="#"><i class="fa fa-tags"></i> सुविधा</a></li>
+					<li><a href="search.php"><i class="fa fa-search"></i> खोज</a></li>
 				</ul>
 			</nav> <!-- cd-sec-main-nav -->
 		</div>
