@@ -22,7 +22,7 @@ if($num_rows > 0)
 	{
 		$dpart = preg_replace("/^0/", "", $row['part']);
 		$dpart = preg_replace("/\-0/", "-", $dpart);
-		echo '<div class="aIssue"><a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '">Part ' . toKannada($dpart) . '</a></div>';
+		echo '<div class="aIssue"><a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '">सञ्चिका ' . toKannada($dpart) . '</a></div>';
 	}
 }
 

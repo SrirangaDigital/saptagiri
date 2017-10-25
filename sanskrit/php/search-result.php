@@ -141,7 +141,7 @@ $num_results = $result ? $result->num_rows : 0;
 
 if ($num_results > 0)
 {
-    echo '<h1 class="clr1 gapBelowSmall">Resutl(s) - ' . toKannada(intval($num_results)) . '</h1>';
+    echo '<h1 class="clr1 gapBelowSmall">फलितांशः - ' . toKannada(intval($num_results)) . '</h1>';
 }
 
 $result = $db->query($query); 
@@ -187,7 +187,7 @@ if($num_rows > 0)
 
             echo '  <div class="gapBelowSmall">';
             echo ($row3['feat_name'] != '') ? '     <span class="aFeature clr2"><a href="feat.php?feature=' . urlencode($row3['feat_name']) . '&amp;featid=' . $row['featid'] . '">' . $row3['feat_name'] . '</a></span> | ' : '';
-			echo '		<span class="aIssue clr5"><a href="toc.php?vol=' . $row['volume'] . '&amp;part=' . $row['part'] . '">Volume ' . toKannada(intval($row['volume'])) . ', Part ' . toKannada($dpart) . ' <span class="font_resize">(' . $info . ')</span></a></span>';
+			echo '		<span class="aIssue clr5"><a href="toc.php?vol=' . $row['volume'] . '&amp;part=' . $row['part'] . '">संपुटिः ' . toKannada(intval($row['volume'])) . ', सञ्चिका ' . toKannada($dpart) . ' <span class="font_resize">(' . $info . ')</span></a></span>';
             echo '  </div>';
             echo '	<span class="aTitle"><a target="_blank" href="../Volumes/pdf/' . $row['volume'] . '/' . $row['part'] . '/index.pdf#page=' . $row['page'] . '">' . $row['title'] . '</a></span>';
 			//~ DJVU link
@@ -226,7 +226,7 @@ if($num_rows > 0)
 }
 else
 {
-    echo '<a href="search.php" class="sml clr2">Sorry! No results. Hit the back button or click here to try again.</a>';
+    echo '<a href="search.php" class="sml clr2">क्षम्यताम् !<br />टङ्कितवर्णसाम्याभावात् शून्यफलितांशः ।</a>';
 }
 
 if($result){$result->free();}
