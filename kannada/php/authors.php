@@ -70,11 +70,11 @@ require_once("common.php");
          exit(1);
  	}
 	
- 	($letter == '') ? $letter = 'ಅ' : $letter = $letter;
+ 	($letter == '') ? $letter = '' : $letter = $letter;
  }
  else
  {
- 	$letter = 'ಅ';
+ 	$letter = '';
  }
 
 if($letter == 'other')

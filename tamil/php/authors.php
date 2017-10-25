@@ -61,11 +61,11 @@ require_once("common.php");
          exit(1);
  	}
 	
- 	($letter == '') ? $letter = 'உ' : $letter = $letter;
+ 	($letter == '') ? $letter = '' : $letter = $letter;
  }
  else
  {
- 	$letter = 'உ';
+ 	$letter = '';
  }
 
 if($letter == 'other')

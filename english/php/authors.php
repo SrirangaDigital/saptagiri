@@ -52,11 +52,11 @@ require_once("common.php");
          exit(1);
  	}
 	
- 	($letter == '') ? $letter = 'A' : $letter = $letter;
+ 	($letter == '') ? $letter = '' : $letter = $letter;
  }
  else
  {
- 	$letter = 'A';
+ 	$letter = '';
  }
 
 if($letter == 'other')
