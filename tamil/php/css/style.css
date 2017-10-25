@@ -291,16 +291,16 @@ Modules - reusable parts of our design
   color: #3372df;
 }
 .article .aAuthor{
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 400;
 }
 
 .article .aFeature{
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .article .aIssue{
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .author{
@@ -317,7 +317,7 @@ Modules - reusable parts of our design
 }
 
 .author .aAuthor{
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .year{
@@ -332,7 +332,7 @@ Modules - reusable parts of our design
 }
 
 .year .aIssue{
-  font-size: 18px;
+  font-size: 20px;
   padding: 10px;
   min-width: 80px;
   text-align: center;
@@ -346,7 +346,7 @@ Modules - reusable parts of our design
 }
 
 .alphabet .letter{
-  font-size: 18px;
+  font-size: 20px;
   margin-right: 10px;
 }
 
@@ -426,7 +426,7 @@ Modules - reusable parts of our design
   background: none;
   border: 1px solid #CCCCCC;
   border-radius: 5px;
-  font-size: 18px;
+  font-size: 20px;
   font-family: "Roboto", sans-serif;
   color: #555;
   outline: none;
@@ -564,7 +564,7 @@ Main components
     border-top: none;
     color: #3d3536;
     text-transform: uppercase;
-    font-size: 18px;
+    font-size: 20px;
   }
   .no-touch .cd-main-nav a:hover {
     color: #3372df;
@@ -965,7 +965,7 @@ Secondary Navigation
     color: #444;
     text-transform: uppercase;
     font-weight: normal;
-    font-size: 18px;
+    font-size: 20px;
   }
   #cd-sec-nav li a:hover {
     color: #3372df;

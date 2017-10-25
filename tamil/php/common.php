@@ -181,16 +181,16 @@ function getMonth($month)
 }
 function toKannada($value)
 {
-	$value = preg_replace('/0/', '௦', $value);
-	$value = preg_replace('/1/', '௧', $value);
-	$value = preg_replace('/2/', '௨', $value);
-	$value = preg_replace('/3/', '௩', $value);
-	$value = preg_replace('/4/', '௪', $value);
-	$value = preg_replace('/5/', '௫', $value);
-	$value = preg_replace('/6/', '௬', $value);
-	$value = preg_replace('/7/', '௭', $value);
-	$value = preg_replace('/8/', '௮', $value);
-	$value = preg_replace('/9/', '௯	', $value);
+	// $value = preg_replace('/0/', '௦', $value);
+	// $value = preg_replace('/1/', '௧', $value);
+	// $value = preg_replace('/2/', '௨', $value);
+	// $value = preg_replace('/3/', '௩', $value);
+	// $value = preg_replace('/4/', '௪', $value);
+	// $value = preg_replace('/5/', '௫', $value);
+	// $value = preg_replace('/6/', '௬', $value);
+	// $value = preg_replace('/7/', '௭', $value);
+	// $value = preg_replace('/8/', '௮', $value);
+	// $value = preg_replace('/9/', '௯	', $value);
 	
 	return $value;
 }

@@ -15,14 +15,14 @@
 	<script src="js/jquery-2.1.1.js"></script>
 	<script type="text/javascript" src="js/jquery-ui.js"></script>
   	
-	<title>ஸ்ரீ சங்கர க்ருபா</title>
+	<title>ஸப்தகிரி</title>
 </head>
 <body>
 	<header class="cd-header">
 		<div id="cd-logo">
 			<a href="../index.html#home">
 				<img src="img/logo.gif" alt="Logo">
-				<span>ஸ்ரீ சங்கர க்ருபா</span>
+				<span>ஸப்தகிரி</span>
 				<!--<img src="img/logo2.gif" alt="Logo"> -->
 			</a>
 		</div>
