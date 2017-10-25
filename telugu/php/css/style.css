@@ -4,13 +4,10 @@ Primary style
 
 -------------------------------- */
 @font-face {
-  font-family: Gubbi;
-  src: url('Gubbi.ttf') ;
-}
-@font-face {
  font-family: 'Siddhantaa';
  src: url('siddhanta.ttf');
 }
+
 html * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -24,7 +21,7 @@ html * {
 
 body {
   font-size: 100%;
-  font-family: Gubbi;
+  font-family: "Roboto", sans-serif;
   color: #3d3536;
   background-color: white;
 }
@@ -135,14 +132,14 @@ Modules - reusable parts of our design
   content: "\201C";
   font-size: 120px;
   color: #7a7a7a;
-  font-family: Gubbi;
+  font-family: serif;
 }
 
 .bquoteClose:after {
   content: "\201D";
   font-size: 120px;
   color: #7a7a7a;
-  font-family: Gubbi;
+  font-family: serif;
 }
 
 .gapAbove {
@@ -158,7 +155,7 @@ Modules - reusable parts of our design
 }
 
 .gapBelowSmall {
-  margin-bottom: 5px !important;  
+  margin-bottom: 25px !important;  
 }
 
 .gapAboveLarge {
@@ -294,7 +291,10 @@ Modules - reusable parts of our design
 .article .aTitle{
   font-size: 20px;
 }
-
+.article .downloadspan{
+  font-size:15px;
+  color: #3372df;
+}
 .article .aAuthor{
   font-size: 16px;
   font-weight: 400;
@@ -361,7 +361,7 @@ Modules - reusable parts of our design
   flex-wrap: wrap;
   justify-content: space-around;
   background-color: #EEE;  
- }
+}
 
 .issueHolder{
   margin: 0px auto 0 auto;
@@ -408,10 +408,7 @@ Modules - reusable parts of our design
   line-height: 1.5em;
   font-size: 0.9em;  
 }
-.downloadspan {
-	font-size: 0.7em;
-	color: #3D6B97;
-}
+
 .archive_search table .left{
   width: 67px;
   height: 30px;
@@ -435,7 +432,7 @@ Modules - reusable parts of our design
   border: 1px solid #CCCCCC;
   border-radius: 5px;
   font-size: 16px;
-  font-family: Gubbi;
+  font-family: "Roboto", sans-serif;
   color: #555;
   outline: none;
   padding: 10px;
@@ -487,20 +484,15 @@ Main components
   padding: .3em 1em;
   border-top: none;
   color: #000;
-/*
-  font-weight: bold;
-*/
   font-size: 22px;
-/*
-  font-size: 1.2rem;
-*/
 }
+
 @media only screen and (min-width: 930px) {
   .cd-header {
     height: 70px;
   }
   .cd-header #cd-logo {
-    margin: 23px 0 0 5%;
+    margin: 16px 0 0 5%;
   }
 }
 
@@ -555,7 +547,7 @@ Main components
     -ms-transform: translateY(0);
     -o-transform: translateY(0);
     transform: translateY(0);
-    line-height: 75px;
+    line-height: 70px;
   }
   .cd-main-nav ul.is-visible {
     -webkit-transform: translateY(0);
@@ -573,17 +565,11 @@ Main components
     height: auto;
     line-height: normal;
     background: transparent;
-    padding: .5em .5em;
+    padding: .6em 1em;
     border-top: none;
-    color: #000;
+    color: #3d3536;
     text-transform: uppercase;
-/*
-    font-weight: bold;
-*/
-/*
-    letter-spacing: 1px;
-*/
-    font-size: 16px;
+    font-size: 18px;
   }
   .no-touch .cd-main-nav a:hover {
     color: #3372df;
@@ -658,7 +644,7 @@ Main components
   right: 10%;
   left: auto;
   width: 50%;
-  max-width: 433px;
+  max-width: 377px;
   text-align: center;
   padding: 40px;
 }
@@ -669,7 +655,7 @@ Main components
   left: auto;
   width: 50%;
   height: 100%;
-  max-width: 433px;
+  max-width: 377px;
   text-align: right;
   min-height: 200px;
 }
@@ -690,7 +676,7 @@ Main components
 }
 
 .bgClr4{
-  opacity: 0.7;
+  opacity: 0.9;
   background-color: #f2c472;
 }
 
@@ -711,14 +697,6 @@ Main components
   color: white;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
 }
-.bannerHalf h1 {
-  font-size: 25px;
-  font-weight: 300;
-  line-height: 1.5;
-  font-family: "Roboto", sans-serif;
-  color: white;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
-} 
 .banner h2 {
   font-size: 12px;
   font-weight: 300;
@@ -726,12 +704,24 @@ Main components
   color: white;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
 }
+.bannerHalf h1 {
+  font-size: 25px;
+  font-weight: 300;
+  line-height: 1.5;
+  font-family: "Roboto", sans-serif;
+  color: #8B0000;
+} 
 .bannerHalf h2 {
   font-size: 12px;
   font-weight: 300;
   line-height: 1.5;
-  color: white;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  color: #000;
+}
+.bannerHalf h2 a{
+  border-bottom: 1px dotted #8B0000;
+}
+.bannerHalf h2 a:hover{
+  color: #8B0000;
 }
 
 .cd-container h1 {
@@ -773,11 +763,7 @@ Main components
 }
 
 .fSan{
-  font-family: Gubbi;
-}
-
-.fKan{
-  font-family: Gubbi !important;
+  font-family: Siddhanta;
 }
 
 .sml{
@@ -808,24 +794,24 @@ Main components
   
   .bannerHalf h1 {
     font-size: 48px;
-    color: #ffffff;
+    color: #8B0000;
   }
-  
+   
   .banner h2 {
     font-size: 20px;
   }
   
   .bannerHalf h2 {
-    font-size: 30px;
-    color: #ffffff;
+    font-size: 24px;
+    color: #000;
+    margin-bottom: 20px;
   }
   
   .bannerHalf p {
     padding-top: 30px;
-    font-size: 15px;
+    font-size: 20px;
     line-height: 1.5;
     color: black;
-	font-family: "Roboto", sans-serif;    
     font-weight: 300;
   }
 }
@@ -979,16 +965,12 @@ Secondary Navigation
     border-bottom: none;
     line-height: normal;
     background: transparent;
-    padding: 0em 0.5em 0 0;
+    padding: 0em 1em 0 0;
     border-top: none;
     color: #444;
     text-transform: uppercase;
-    letter-spacing: 1px;
     font-weight: normal;
-    font-size: 15px;
-/*
-    font-size: 0.9rem;
-*/
+    font-size: 16px;
   }
   #cd-sec-nav li a:hover {
     color: #3372df;
@@ -1266,15 +1248,4 @@ Secondary Navigation
     -o-transform: scale(1);
     transform: scale(1);
   }
-}
-.font_size{
-	font-size: 0.95em;
-}
-.font_resize{
-	font-size: 0.9em;
-}
-.delim:not(:last-child):after{
-	content: " | ";
-	color: #777;
-	margin: 0 10px;
 }
