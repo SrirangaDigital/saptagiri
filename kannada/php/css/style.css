@@ -3,11 +3,6 @@
 Primary style
 
 -------------------------------- */
-@font-face {
- font-family: 'Siddhantaa';
- src: url('siddhanta.ttf');
-}
-
 html * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -21,7 +16,7 @@ html * {
 
 body {
   font-size: 100%;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", 'Siddhanta', 'Nudi', sans-serif;
   color: #3d3536;
   background-color: white;
 }
@@ -432,7 +427,7 @@ Modules - reusable parts of our design
   border: 1px solid #CCCCCC;
   border-radius: 5px;
   font-size: 16px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", 'Nudi', sans-serif;
   color: #555;
   outline: none;
   padding: 10px;
@@ -708,7 +703,7 @@ Main components
   font-size: 25px;
   font-weight: 300;
   line-height: 1.5;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", 'Nudi', sans-serif;
   color: #8B0000;
 } 
 .bannerHalf h2 {
@@ -763,7 +758,7 @@ Main components
 }
 
 .fSan{
-  font-family: Siddhanta;
+  font-family: 'Siddhanta';
 }
 
 .sml{

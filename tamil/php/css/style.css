@@ -3,11 +3,6 @@
 Primary style
 
 -------------------------------- */
-@font-face {
- font-family: 'Siddhantaa';
- src: url('siddhanta.ttf');
-}
-
 html * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -21,7 +16,7 @@ html * {
 
 body {
   font-size: 100%;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", 'Siddhanta', 'Nudi', sans-serif;
   color: #3d3536;
   background-color: white;
 }
@@ -296,16 +291,16 @@ Modules - reusable parts of our design
   color: #3372df;
 }
 .article .aAuthor{
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
 }
 
 .article .aFeature{
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .article .aIssue{
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .author{
@@ -322,7 +317,7 @@ Modules - reusable parts of our design
 }
 
 .author .aAuthor{
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .year{
@@ -337,7 +332,7 @@ Modules - reusable parts of our design
 }
 
 .year .aIssue{
-  font-size: 16px;
+  font-size: 18px;
   padding: 10px;
   min-width: 80px;
   text-align: center;
@@ -351,7 +346,7 @@ Modules - reusable parts of our design
 }
 
 .alphabet .letter{
-  font-size: 16px;
+  font-size: 18px;
   margin-right: 10px;
 }
 
@@ -431,7 +426,7 @@ Modules - reusable parts of our design
   background: none;
   border: 1px solid #CCCCCC;
   border-radius: 5px;
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Roboto", sans-serif;
   color: #555;
   outline: none;
@@ -970,7 +965,7 @@ Secondary Navigation
     color: #444;
     text-transform: uppercase;
     font-weight: normal;
-    font-size: 16px;
+    font-size: 18px;
   }
   #cd-sec-nav li a:hover {
     color: #3372df;

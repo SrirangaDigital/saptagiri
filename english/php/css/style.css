@@ -3,11 +3,6 @@
 Primary style
 
 -------------------------------- */
-@font-face {
- font-family: 'Siddhantaa';
- src: url('siddhanta.ttf');
-}
-
 html * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -21,7 +16,7 @@ html * {
 
 body {
   font-size: 100%;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", 'Siddhanta', 'Nudi', sans-serif;
   color: #3d3536;
   background-color: white;
 }

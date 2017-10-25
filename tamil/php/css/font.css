@@ -34,3 +34,13 @@
   font-weight: 700;
   src: local('Roboto Bold'), local('Roboto-Bold'), url(Roboto-BoldItalic.ttf);
 }
+@font-face {
+  font-family: 'Siddhanta';
+  src: url('siddhanta.ttf');
+  unicode-range: U+0900-097F, U+A8E0-A8FF, U+1CD0-1CFF;
+}
+@font-face {
+  font-family: 'Nudi';
+  src: url('NUDI UNI 01K.ttf');
+  unicode-range: U+0C80-0CFF;
+}
