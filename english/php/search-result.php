@@ -141,7 +141,7 @@ $num_results = $result ? $result->num_rows : 0;
 
 if ($num_results > 0)
 {
-    echo '<h1 class="clr1 gapBelowSmall">Resutl(s) - ' . intval($num_results) . '</h1>';
+    echo '<h1 class="clr1 gapBelowSmall">Result(s) - ' . intval($num_results) . '</h1>';
 }
 
 $result = $db->query($query); 

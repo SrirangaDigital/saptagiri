@@ -43,7 +43,7 @@
 					<li><a href="volumes.php"><i class="fa fa-book"></i> Volumes</a></li>
 					<li><a href="articles.php"><i class="fa fa-files-o"></i> Articles</a></li>
 					<li><a href="authors.php"><i class="fa fa-users"></i> Authors</a></li>
-					<li><a href="#"><i class="fa fa-tags"></i> Feature</a></li>
+					<li><a href="#"><i class="fa fa-tags"></i> Features</a></li>
 					<li><a href="search.php"><i class="fa fa-search"></i> Search</a></li>
 				</ul>
 			</nav> <!-- cd-sec-main-nav -->
