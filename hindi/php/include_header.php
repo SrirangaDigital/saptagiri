@@ -31,7 +31,7 @@
 				<li><a href="../index.html#home">मुख पृष्ठ</a></li>
 				<li><a href="../index.html#about">संस्था</a></li>
 				<li><a href="../index.html#editors">संपादकों</a></li>
-			<li><a href="volumes.php">संग्रह</a> | <a href="volumes.php">अंक</a></li>
+			<li><a href="volumes.php">संग्रह</a> | <a href="volumes.php">वर्ष</a></li>
 				<li><a href="#">सहायता</a></li>
 			</ul>
 		</nav><!-- cd-main-nav -->
@@ -40,10 +40,10 @@
 			<a href="#0" class="cd-sec-nav-trigger">Menu<span></span></a>
 			<nav id="cd-sec-main-nav">
 				<ul>
-					<li><a href="volumes.php"><i class="fa fa-book"></i> अंक</a></li>
+					<li><a href="volumes.php"><i class="fa fa-book"></i> वर्ष</a></li>
 					<li><a href="articles.php"><i class="fa fa-files-o"></i> लेख</a></li>
 					<li><a href="authors.php"><i class="fa fa-users"></i> लेखक</a></li>
-					<li><a href="#"><i class="fa fa-tags"></i> श्रेणी / विषय</a></li>
+					<li><a href="features.php"><i class="fa fa-tags"></i> श्रेणी / विषय</a></li>
 					<li><a href="search.php"><i class="fa fa-search"></i> खोज</a></li>
 				</ul>
 			</nav> <!-- cd-sec-main-nav -->

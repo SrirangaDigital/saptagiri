@@ -15,7 +15,7 @@ require_once("common.php");
                     <form method="get" action="search-result.php">
                         <table>
                             <tr>
-                                <td class="left"><label for="textfield2" class="titlespan">सामग्री</label></td>
+                                <td class="left"><label for="textfield2" class="titlespan">शीर्षक</label></td>
                                 <td class="right"><input name="title" type="text" class="titlespan wide" id="textfield2" maxlength="150"/></td>
                             </tr>
                             <tr>

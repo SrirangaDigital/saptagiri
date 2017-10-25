@@ -2,7 +2,7 @@
 <main class="cd-main-content">
 		<div class="cd-scrolling-bg cd-color-2">
 			<div class="cd-container">
-				<h1 class="clr1">आर्टिकल्स</h1>
+				<h1 class="clr1">लेख</h1>
  				<div class="alphabet gapBelowSmall gapAboveSmall">
 					<span class="letter"><a href="articles.php?letter=अ">अ</a></span>
 					<span class="letter"><a href="articles.php?letter=आ">आ</a></span>
@@ -125,7 +125,7 @@ if($num_rows > 0)
 		echo '<div class="article">';
 		echo '	<div class="gapBelowSmall">';
 		echo ($row3['feat_name'] != '') ? '		<span class="aFeature clr2"><a href="feat.php?feature=' . urlencode($row3['feat_name']) . '&amp;featid=' . $row['featid'] . '">' . $row3['feat_name'] . '</a></span> | ' : '';
-		echo '		<span class="aIssue clr5"><a href="toc.php?vol=' . $row['volume'] . '&amp;part=' . $row['part'] . '">आयतन ' . toKannada(intval($row['volume'])) . ', मुद्दा ' . toKannada($dpart) . ' <span class="font_resize">(' . $info . ')</span></a></span>';
+		echo '		<span class="aIssue clr5"><a href="toc.php?vol=' . $row['volume'] . '&amp;part=' . $row['part'] . '">वर्ष ' . toKannada(intval($row['volume'])) . ', अंक ' . toKannada($dpart) . ' <span class="font_resize">(' . $info . ')</span></a></span>';
 		echo '	</div>';
 		//~ echo '	<span class="aTitle"><a target="_blank" href="bookReader.php?volume=' . $row['volume'] . '&amp;part=' . $row['part'] . '&amp;page=' . $row['page'] . '">' . $row['title'] . '</a></span>';
 		//~ DJVU link
