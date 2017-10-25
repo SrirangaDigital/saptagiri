@@ -15,14 +15,14 @@
 	<script src="js/jquery-2.1.1.js"></script>
 	<script type="text/javascript" src="js/jquery-ui.js"></script>
   	
-	<title>శ్రీ శంకర కృప</title>
+	<title>సప్తగిరి</title>
 </head>
 <body>
 	<header class="cd-header">
 		<div id="cd-logo">
 			<a href="../index.html#home">
 				<img src="img/logo.gif" alt="Logo">
-				<span>శ్రీ శంకర కృప</span>
+				<span>సప్తగిరి</span>
 				<!--<img src="img/logo2.gif" alt="Logo"> -->
 			</a>
 		</div>
@@ -42,7 +42,7 @@
 				<ul>
 					<li><a href="volumes.php"><i class="fa fa-book"></i> సంపుటము</a></li>
 					<li><a href="articles.php"><i class="fa fa-files-o"></i> లేఖనములు</a></li>
-					<li><a href="authors.php"><i class="fa fa-users"></i> లేఖకకులు</a></li>
+					<li><a href="authors.php"><i class="fa fa-users"></i> లేఖకులు</a></li>
 					<li><a href="#"><i class="fa fa-tags"></i> స్థిర శీర్షికెములు</a></li>
 					<li><a href="search.php"><i class="fa fa-search"></i> వెదుకు</a></li>
 				</ul>

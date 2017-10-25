@@ -2,7 +2,7 @@
 <main class="cd-main-content">
 		<div class="cd-scrolling-bg cd-color-2">
 			<div class="cd-container">
-				<h1 class="clr1">లేఖకకుడు</h1>
+				<h1 class="clr1">లేఖకుడు</h1>
 				<div class="alphabet gapBelowSmall gapAboveSmall">
 					<span class="letter"><a href="authors.php?letter=అ">అ</a></span>
 					<span class="letter"><a href="authors.php?letter=ఆ">ఆ</a></span>
@@ -96,7 +96,7 @@ if($num_rows > 0)
 }
 else
 {
-	echo '<span class="sml">ఇక్కడ  \'' . $letter . '\'అక్షరనుండి ప్రారంభించె లేఖకకులు లేరు';
+	echo '<span class="sml">ఇక్కడ  \'' . $letter . '\'అక్షరనుండి ప్రారంభించె లేఖకులు లేరు';
 }
 
 if($result){$result->free();}
